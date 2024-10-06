@@ -12,6 +12,6 @@ public class ClassStart1 {
         int student2Grade = 80;
 
         System.out.println("student1Name: " + student1Name + "student1Age: " + student1Age + "student1Grade: " + student1Grade);
-        System.out.println("student1Name: " + student1Name + "student1Age: " + student1Age + "student1Grade: " + student1Grade);
+        System.out.println("student2Name: " + student2Name + "student2Age: " + student2Age + "student2Grade: " + student2Grade);
     }
 }
