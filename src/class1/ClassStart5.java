@@ -15,7 +15,7 @@ public class ClassStart5 {
 
         Student[] students = new Student[]{student1, student2};
 
-        // 밑의 세개 모두 같은 의미!!
+        // 밑의 세개 모두 같은 의미!!!
 
         // 1
         for (int i = 0; i < students.length; i++) {
