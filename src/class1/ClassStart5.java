@@ -1,7 +1,6 @@
 package class1;
 
 public class ClassStart5 {
-
     public static void main(String[] args) {
         Student student1 = new Student();
         student1.name = "학생1";
