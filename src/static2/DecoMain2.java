@@ -11,7 +11,3 @@ public class DecoMain2 {
         System.out.println("after: " + deco);
     }
 }
-
-/* 정적 메서드 사용법
- * 클
- */
