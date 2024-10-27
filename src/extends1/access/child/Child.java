@@ -19,4 +19,7 @@ public class Child extends Parent {
     }
 }
 
-/* Child.call() -> Parent.printParent() */
+/* Child.call() -> Parent.printParent()
+ * Child는 부모의 public, protected 필드나 메서드만 접근 가능
+ * Parent.printParent는 Parent 안에 있는 메서드이기 때문에 Parent 자신의 모든 필드와 메서드에 얼마든지 접근 가능
+*/
