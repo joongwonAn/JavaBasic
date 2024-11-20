@@ -12,7 +12,8 @@ public class SoundFlyMain {
         soundAnimal(chicken);
 
         flyAnimal(bird);
-        flyAnimal(chicken);
+        flyAnimal(chicken
+        );
     }
 
     private static void soundAnimal(AbstractAnimal animal) {
